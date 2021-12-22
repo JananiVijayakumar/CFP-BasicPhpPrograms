@@ -9,4 +9,3 @@ if(($number1>$number2) & ($number1>$number3)){
 }else {
     echo "$number3 is the Largest";
 }
-?>
